@@ -1,0 +1,19 @@
+{
+  "name": "tslint-config-ultra",
+  "version": "1.0.0",
+  "description": "tslint:recommended with minor changes and without semicolons",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steebchen/tslint-config-ultra.git"
+  },
+  "keywords": [
+    "tslint",
+    "lint"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steebchen/tslint-config-ultra/issues"
+  },
+  "homepage": "https://github.com/steebchen/tslint-config-ultra#readme"
+}

@@ -1,0 +1,36 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "max-line-length": {
+      "options": [
+        120
+      ]
+    },
+    "no-var-requires": false,
+    "new-parens": true,
+    "no-arg": true,
+    "forin": false,
+    "no-bitwise": true,
+    "semicolon": [
+      true,
+      "never"
+    ],
+    "interface-name": [
+      true,
+      "never-prefix"
+    ],
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "no-namespace": false,
+    "no-conditional-assignment": true,
+    "no-consecutive-blank-lines": false,
+    "trailing-comma": [
+      true,
+      "always"
+    ],
+    "no-shadowed-variable": false,
+    "space-before-function-paren": false
+  }
+}

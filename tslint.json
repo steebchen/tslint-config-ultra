@@ -33,6 +33,7 @@
     "no-shadowed-variable": false,
     "space-before-function-paren": false,
     "no-console": false,
-    "only-arrow-functions": false
+    "only-arrow-functions": false,
+    "object-literal-sort-keys": false
   }
 }

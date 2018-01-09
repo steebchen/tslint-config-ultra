@@ -28,7 +28,15 @@
     "no-consecutive-blank-lines": false,
     "trailing-comma": [
       true,
-      "always"
+      {
+        "multiline": {
+          "objects": "always",
+          "arrays": "always",
+          "functions": "never",
+          "typeLiterals": "ignore"
+        },
+        "esSpecCompliant": true
+      }
     ],
     "no-shadowed-variable": false,
     "space-before-function-paren": false,

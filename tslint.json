@@ -43,6 +43,7 @@
     "no-console": false,
     "only-arrow-functions": false,
     "object-literal-sort-keys": false,
-    "member-ordering": [true, { "order": "fields-first" }]
+    "member-ordering": [true, { "order": "fields-first" }],
+    "noUnusedLocals": true
   }
 }

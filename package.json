@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-ultra",
-  "version": "1.4.1",
+  "version": "1.4.4",
   "description": "tslint:recommended with minor changes and without semicolons",
   "main": "tslint.json",
   "repository": {

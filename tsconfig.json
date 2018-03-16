@@ -18,7 +18,6 @@
     "../../src/**/*.ts"
   ],
   "exclude": [
-    "../../node_modules/**",
-    "../../src/test"
+    "../../node_modules/**"
   ]
 }

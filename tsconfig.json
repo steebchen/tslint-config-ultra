@@ -8,7 +8,7 @@
 		"strictNullChecks": true,
 		"declaration": true,
 		"importHelpers": true,
-		"inlineSourceMap": true,
+		"sourceMap": true,
 		"listFiles": false,
 		"traceResolution": false,
 		"pretty": true,
